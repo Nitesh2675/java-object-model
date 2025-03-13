@@ -4,7 +4,7 @@ public class ECommerceSystem {
     public static void main(String[] args) {
 
         // Creating a customer
-        Customer customer = new Customer("Ankush Sharma");
+        Customer customer = new Customer("Nitesh Sharma");
 
         // Creating products
         Product product1 = new Product("Laptop", 80000);
